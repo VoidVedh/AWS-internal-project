@@ -138,5 +138,4 @@ This practical successfully demonstrated how **Amazon SQS** and **Amazon SNS** s
 - [ARCHITECTURE.md](./ARCHITECTURE.md) — Mermaid architecture diagram and component flows
 - [PRACTICAL-REPORT.md](./PRACTICAL-REPORT.md) — Step-by-step lab report and observations
 - [RESOURCE-INVENTORY.md](./RESOURCE-INVENTORY.md) — Verified AWS resource configurations (Account ID redacted)
-- [VIVA-PREPARATION.md](./VIVA-PREPARATION.md) — 45-second intro, 3-minute demo guide, and 25 viva Q&As
 - [EVIDENCE/README.md](./EVIDENCE/README.md) — Screenshot checklist and browser recording evidence
